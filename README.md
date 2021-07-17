@@ -2,7 +2,7 @@
 
 This is a very basic port scanner that I have developed. The templates were already available. I made changes where I deemed it fit.
 Currently, it supports both TCP and UDP connections with threading capability.
-There are several features which are lacking, like range feature. As of right now, port numbers have to be specified individually.
+There are several features which are lacking, like range feature and the output file of open ports for further operations such as banner grabbing or even enumeration. As of right now, port numbers have to be specified individually.
 A range feature could come in handy. Will work on it when I have time.
 This is more of an academic exercise.
 
